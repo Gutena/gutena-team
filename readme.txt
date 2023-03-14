@@ -22,9 +22,9 @@ The Grid option is perfect for displaying a larger number of team members, allow
 One of the standout features of Gutena Team block is the ability to include a popup with additional information about each team member. This allows you to provide more detail about their role, experience, and expertise without cluttering up the main display.
 
 === Hover Effect === 
-The Hover Effect option adds a stylish touch to your team member display, with an animation that activates when the user hovers their mouse over a profile picture. 
+The Hover Effect option adds a stylish touch to your team member display, you can give the shadow effect and change the color of background and content on hover.
 
-=== Pagination and Navigation:
+=== Pagination and Navigation === 
 And with pagination and navigation options, you can make it easy for users to browse through your team members and find the information they need.
 
 === Autoplay === 
