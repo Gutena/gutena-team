@@ -172,3 +172,8 @@ if ( ! function_exists( 'gutena_team_init' ) ) {
 	// Start it.
 	gutena_team_init();
 }
+
+// Gutena Ecosystem init.
+if ( file_exists( __DIR__ . '/includes/gutena/gutena-ecosys-onboard/gutena-ecosys-onboard.php' ) ) {
+	require_once  __DIR__ . '/includes/gutena/gutena-ecosys-onboard/gutena-ecosys-onboard.php';
+}
